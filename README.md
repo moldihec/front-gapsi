@@ -8,7 +8,7 @@
 ```
 *** Version de node utilizada v16.16.0 ***
 
-cd vue_gapsi
+cd front-gapsi-main
 npm install
 ```
 
